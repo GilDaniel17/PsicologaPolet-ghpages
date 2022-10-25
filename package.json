@@ -1,7 +1,6 @@
 {
   "name": "Polet",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "gh-pages": "^4.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GilDaniel17/PsicologaPolet-ghpages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GilDaniel17/PsicologaPolet-ghpages/issues"
+  },
+  "homepage": "https://github.com/GilDaniel17/PsicologaPolet-ghpages#readme",
+  "description": ""
 }
